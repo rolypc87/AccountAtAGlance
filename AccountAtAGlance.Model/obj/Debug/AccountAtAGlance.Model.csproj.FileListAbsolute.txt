@@ -1,0 +1,5 @@
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\AccountAtAGlance\AccountAtAGlance\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\AccountAtAGlance\AccountAtAGlance\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.pdb
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\AccountAtAGlance\AccountAtAGlance\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\AccountAtAGlance\AccountAtAGlance\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.pdb
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\AccountAtAGlance\AccountAtAGlance\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\AccountAtAGlance\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\AccountAtAGlance.Repository.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\AccountAtAGlance\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\AccountAtAGlance.Repository.pdb
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\AccountAtAGlance\AccountAtAGlance\AccountAtAGlance.Repository\obj\Debug\AccountAtAGlance.Repository.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\AccountAtAGlance\AccountAtAGlance\AccountAtAGlance.Repository\obj\Debug\AccountAtAGlance.Repository.pdb
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\AccountAtAGlance\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\AccountAtAGlance.Model.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\AccountAtAGlance\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\AccountAtAGlance.Model.pdb
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\AccountAtAGlance\AccountAtAGlance\AccountAtAGlance.Repository\obj\Debug\AccountAtAGlance.Repository.csprojResolveAssemblyReference.cache
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\AccountAtAGlance\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\AccountAtAGlance.Repository.dll.config
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\AccountAtAGlance\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\EntityFramework.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\AccountAtAGlance\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\AccountAtAGlance\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\EntityFramework.xml
+C:\Users\rrivero\Desktop\docs Rolando\Rolando's Projects\C#\AccountAtAGlance\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\EntityFramework.SqlServer.xml

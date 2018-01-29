@@ -1,0 +1,34 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Security.AccessControl;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace AccountAtAGlance.Model
+{
+	public class BrokerageAccount
+	{
+		public BrokerageAccount()
+		{
+			Positions = new HashSet<Position>();
+			Orders = new HashSet<Orders>();
+		}
+		//Primitive properties
+		public int Id { get; set; }
+		public string AccountNumber { get; set; }
+		public string AccountTitle { get; set; }
+		public decimal Total { get; set; }
+		public decimal MargingBalance { get; set; }
+		public bool IsRetirement { get; set; }
+		public int CustomerId { get; set; }
+		public decimal CashTotal { get; set; }
+		public decimal PositionTotal { get; set; }
+		public int WatchListId { get; set; }
+
+		//Navigation Properties
+		public ICollection<Position> Positions { get; set; }
+		public ICollection<Orders> Orders { get; set; }
+		public WatchList WatchList { get; set; }
+	}
+}
